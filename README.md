@@ -39,5 +39,6 @@ Implement messaging between students.
 Add notifications for important updates.
 Improve security by hashing passwords.
 
-Contributions
+**Contributions**
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+**Developed by Dheeraj Kumar Ambedkar and Yash Balan**
